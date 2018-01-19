@@ -5,7 +5,7 @@ mvn clean install
 cp target/Parking-Lot.jar ../
 
 echo "*************************************************************"
-echo " Application Build and test was succesful."
+echo " Application Build and test was succesful!"
 echo "*************************************************************"
 echo "                                                             "
 cd ..
